@@ -1,3 +1,28 @@
 .header {
+    background: rgb(255, 0, 179);
+    text-align: right;
+    font-family:'Courier New', Courier, monospace;
+
+}
+.art {
+
+}
+
+.content {
+    text-align: center;
+
+}
+.button {
     
+}
+
+.section-body {
+
+}
+
+.footer {
+    background:rgb(255, 0, 179);
+    text-align: center;
+    font-size: smaller;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
